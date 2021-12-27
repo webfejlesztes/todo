@@ -1,5 +1,5 @@
 body {
-    background : linear-gradient(45deg, grey, black);
+    background : linear-gradient(45deg, #b4cfee, #0815ca);
     height     : 100vh;
     margin     : 0;
     box-sizing : border-box;
@@ -129,7 +129,7 @@ header {
     flex-direction: column;
     text-align    : center;
     font-weight   : bold;
-    background    : blue;
+    background    : #2724d3;
     padding       : 6px 14px;
     border-radius : 6px;
     color         : white;
